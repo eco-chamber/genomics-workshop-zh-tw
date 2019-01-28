@@ -3,13 +3,7 @@ layout: lesson
 root: .
 ---
 
-Data Carpentry’s aim is to teach researchers basic concepts, skills, and tools for working
-with data so that they can get more done in less time, and with less pain. This workshop
-teaches data management and analysis for genomics research including: 
-best practices for organization of bioinformatics projects and data, use of command line 
-utilities, use of command line tools to analyze sequence quality and 
-perform variant calling, and connecting to and using cloud computing. This workshop is designed to 
-be taught over two full days of instruction.
+Data Carpentry的目標是教導研究人員關於: 資料處理的基本概念、技能和工具，以便他們能夠在從容的狀態下，在更短的時間內完成更多工作。基因體學研習會則是Data Carpentry所規劃的的研習會主題之一，在裡面將會講授基因體學研究的資料管理和分析，包括：生物資訊研究計畫和資料的組織最佳化、指令列(command line)的效用、使用指令列工具分析序列的品質和執行變異分析、雲端連結與雲端運算。本研討會的設計是以兩整天的課程進行教學。
 
 > ## Getting Started
 >
