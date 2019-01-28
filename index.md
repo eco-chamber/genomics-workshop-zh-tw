@@ -5,7 +5,7 @@ root: .
 
 Data Carpentry的目標是教導研究人員關於: 資料處理的基本概念、技能和工具，以便他們能夠在從容的狀態下，在更短的時間內完成更多工作。基因體學研習會則是Data Carpentry所規劃的的研習會主題之一，在裡面將會講授基因體學研究的資料管理和分析，包括：生物資訊研究計畫和資料的組織最佳化、指令列(command line)的效用、使用指令列工具分析序列的品質和執行變異分析、雲端連結與雲端運算。本研討會的設計是以兩整天的課程進行教學。
 
-> ## Getting Started
+> ## 開始吧
 >
 > This lesson assumes no prior experience with the tools covered in the workshop. 
 > However, learners are expected to have some familiarity with biological concepts,
